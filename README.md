@@ -10,3 +10,6 @@ Steps Covered-
 5. Data Analysis by Pivot Tables and Excel Functions
 6. Data Visualization to create charts and custom sheets to show the insights
 7. Report/ Dashboard creation from start to end
+
+Full project on-https://drive.google.com/drive/folders/1FULvKd8VYeyDDTedS2m0ohdFzC2a47kL?usp=sharing
+(large file 50+ mb.)
